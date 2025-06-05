@@ -56,16 +56,44 @@ Atualmente estou aprendendo e praticando:
 
 ---
 
+---
+
 ### 📌 Projetos em destaque
 
-| Projeto | Descrição | Linguagem |
-|--------|-----------|-----------|
-| 📱 **[Projeto_android_autismo_com_rft](https://github.com/darrrlan/Projeto_android_autismo_com_rft)** | App para avaliar a cognição de crianças com TEA usando RFT. | Java |
-| 🛰 **[Mapeamento_risco_rede_eletrica](https://github.com/darrrlan/Mapeamento_risco_rede_eletrica)** | CNN para identificar riscos na rede elétrica causados por vegetação. | Python |
-| 🌻 **[Sunflower_Alert](https://github.com/darrrlan/Sunflower_Alert)** | Bot que envia alertas quando recursos das fazendas Sunflower estão disponíveis. | Python |
-| 🎮 **[bione-allegro-game](https://github.com/darrrlan/bione-allegro-game)** | Jogo 2D em C com estratégia e desafio, ambientado em uma biblioteca. | C |
-| 🤖 **[Projeto-de-IC](https://github.com/darrrlan/Projeto-de-IC)** | Desenvolvimento de app Android com foco em iniciação científica. | Java |
----
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h4><a href="https://github.com/darrrlan/Projeto_android_autismo_com_rft">📱 Projeto_android_autismo_com_rft</a></h4>
+      <p>Foi desenvolvido um aplicativo móvel com base na Teoria das Molduras Relacionais (Relational Frame Theory - RFT) para avaliar e estimular a associação de palavras e símbolos em crianças com Transtorno do Espectro Autista.</p>
+      <p><span style="color:orange;">● Java</span></p>
+    </td>
+    <td valign="top" width="50%">
+      <h4><a href="https://github.com/darrrlan/Mapeamento_risco_rede_eletrica">🛰 Mapeamento_risco_rede_eletrica</a></h4>
+      <p>Mapeamento de áreas de risco da rede elétrica utilizando Redes Neurais Convolucionais (CNN) para identificar vegetação urbana que pode interferir na rede elétrica.</p>
+      <p><span style="color:deepskyblue;">● Python</span></p>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <h4><a href="https://github.com/darrrlan/Sunflower_Alert">🌻 Sunflower_Alert</a></h4>
+      <p>Bot que monitora fazendas no Sunflower Land e envia alertas quando recursos estão disponíveis.</p>
+      <p><span style="color:deepskyblue;">● Python</span></p>
+    </td>
+    <td valign="top" width="50%">
+      <h4><a href="https://github.com/darrrlan/bione-allegro-game">🎮 bione-allegro-game</a></h4>
+      <p>A Última Esperança: Bione é um jogo 2D desenvolvido em C utilizando a biblioteca Allegro. O jogador embarca em uma jornada repleta de desafios, onde cada fase exige habilidade, estratégia e determinação.</p>
+      <p><span style="color:gray;">● C</span></p>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <h4><a href="https://github.com/darrrlan/Projeto-de-IC">🤖 Projeto-de-IC</a></h4>
+      <p>Desenvolvimento de um aplicativo Android no contexto de iniciação científica.</p>
+      <p><span style="color:orange;">● Java</span></p>
+    </td>
+  </tr>
+</table>
+
 
 ### ⚙️ Ferramentas e Soft Skills
 
