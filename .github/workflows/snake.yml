@@ -1,11 +1,9 @@
-name: Generate Snake
+name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Executa todo dia à meia-noite
-  push:
-    branches:
-      - main
+    - cron: "0 0 * * *"  # Executa diariamente à meia-noite UTC
+  workflow_dispatch:
 
 jobs:
   generate:
@@ -16,8 +14,10 @@ jobs:
           github_user_name: darrrlan
           outputs: |
             dist/github-contribution-grid-snake.svg
-      - name: Push snake
-        uses: crazy-max/ghaction-github-pages@v3
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Commit and Push
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
