@@ -1,5 +1,4 @@
 <h1 align="center">👋 Olá, eu sou o Darlan!</h1>
-<h3 align="center">Desenvolvedor apaixonado por criar soluções que impactam vidas</h3>
 
 <p align="center">
   <a href="mailto:darlan.santoscomp@gmail.com"><img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
