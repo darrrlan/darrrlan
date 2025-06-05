@@ -1,3 +1,4 @@
+
 <h1 align="center">👋 Olá, eu sou o Darlan!</h1>
 
 <p align="center">
@@ -52,6 +53,44 @@ Atualmente estou aprendendo e praticando:
   <img src="https://github-readme-stats.vercel.app/api?username=darrrlan&show_icons=true&theme=tokyonight&count_private=true&hide=stars" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darrrlan&layout=compact&theme=tokyonight" height="150" />
 </div>
+
+---
+
+### 📌 Projetos em destaque
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h4><a href="https://github.com/darrrlan/Projeto_android_autismo_com_rft">📦 Projeto_android_autismo_com_rft</a></h4>
+      <p>Foi desenvolvido um aplicativo móvel com base na Teoria das Molduras Relacionais (Relational Frame Theory - RFT) para avaliar e estimular a associação de palavras e símbolos em crianças com Transtorno do Espectro Autista.</p>
+      <p><span style="color:orange;">● Java</span></p>
+    </td>
+    <td valign="top" width="50%">
+      <h4><a href="https://github.com/darrrlan/Mapeamento_risco_rede_eletrica">📦 Mapeamento_risco_rede_eletrica</a></h4>
+      <p>Mapeamento de áreas de risco da rede elétrica utilizando Redes Neurais Convolucionais (CNN) para identificar vegetação urbana que pode interferir na rede elétrica.</p>
+      <p><span style="color:deepskyblue;">● Python</span></p>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <h4><a href="https://github.com/darrrlan/Sunflower_Alert">📦 Sunflower_Alert</a></h4>
+      <p>Bot que monitora fazendas no Sunflower Land e envia alertas quando recursos estão disponíveis.</p>
+      <p><span style="color:deepskyblue;">● Python</span></p>
+    </td>
+    <td valign="top" width="50%">
+      <h4><a href="https://github.com/darrrlan/bione-allegro-game">📦 bione-allegro-game</a></h4>
+      <p>A Última Esperança: Bione é um jogo 2D desenvolvido em C utilizando a biblioteca Allegro. O jogador embarca em uma jornada repleta de desafios, onde cada fase exige habilidade, estratégia e determinação.</p>
+      <p><span style="color:gray;">● C</span></p>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <h4><a href="https://github.com/darrrlan/Projeto-de-IC">📦 Projeto-de-IC</a></h4>
+      <p>Desenvolvimento de um aplicativo android.</p>
+      <p><span style="color:orange;">● Java</span></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
