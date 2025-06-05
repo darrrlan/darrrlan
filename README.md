@@ -63,9 +63,10 @@ Atualmente estou aprendendo e praticando:
 - 🔍 Atenção a detalhes e foco em acessibilidade
 
 ---
-### 🐍 Cobrinha dos commits
+### 🐍 Snake eating my contributions
 
-https://github.com/darrrlan/darrrlan/blob/output/github-contribution-grid-snake.svg
+![snake gif](https://github.com/darrrlan/darrrlan/blob/output/github-contribution-grid-snake.svg)
+
 
 
 ---
