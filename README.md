@@ -64,7 +64,13 @@ Atualmente estou aprendendo e praticando:
 ---
 ### 🐍 Snake eating my contributions
 
-<p align="center"> <img src="https://github.com/darrrlan/darrrlan/blob/output/github-contribution-grid-snake.svg" alt="snake gif" width="100%" /> </p>
+<p align="center">
+  <img 
+    src="https://github.com/darrrlan/darrrlan/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark" 
+    alt="snake animation dark" 
+    width="100%" 
+  />
+</p>
 
 
 
