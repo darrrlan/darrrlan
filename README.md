@@ -62,7 +62,6 @@ Atualmente estou aprendendo e praticando:
 - 🔍 Atenção a detalhes e foco em acessibilidade
 
 ---
-### 🐍 Snake eating my contributions
 
 <p align="center">
   <img 
@@ -71,8 +70,6 @@ Atualmente estou aprendendo e praticando:
     width="100%" 
   />
 </p>
-
-
 
 ---
 
