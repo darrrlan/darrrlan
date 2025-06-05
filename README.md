@@ -65,9 +65,8 @@ Atualmente estou aprendendo e praticando:
 ---
 ### 🐍 Cobrinha dos commits
 
-<div align="center">
-  <img src="https://github.com/darrrlan/darrrlan/blob/output/github-contribution-grid-snake.svg" alt="cobrinha animada" />
-</div>
+https://github.com/darrrlan/darrrlan/blob/output/github-contribution-grid-snake.svg
+
 
 ---
 
